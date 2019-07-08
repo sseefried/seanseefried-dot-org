@@ -1,0 +1,18 @@
+[submodule "factor-diagrams"]
+	path = factor-diagrams
+	url = git@github.com:sseefried/factor-diagrams.git
+[submodule "heart-glsl"]
+	path = heart-glsl
+	url = git@github.com:sseefried/heart-glsl.git
+[submodule "gyruss-purescript"]
+	path = gyruss-purescript
+	url = git@github.com:sseefried/gyruss-purescript.git
+[submodule "rubiks-cube"]
+	path = rubiks-cube
+	url = git@github.com:sseefried/rubiks-cube.git
+[submodule "html-resume"]
+	path = html-resume
+	url = git@github.com:sseefried/html-resume.git
+[submodule "tilthydeath-nixos"]
+	path = tilthydeath-nixos
+	url = git@github.com:sseefried/tilthydeath-nixos.git
