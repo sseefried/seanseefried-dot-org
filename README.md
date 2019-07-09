@@ -1,4 +1,19 @@
 # README
 
-Symlink into all the sub-repos that you want to deploy.
-Each one of these must have a `deploy.sh` script
+Stop, did you clone with the following?
+
+   $ git clone --recurse submodules <repo>
+
+## Deploying
+
+Just deploying the root files
+
+    $ ./deploy-root.sh
+
+Deploying the whole site (takes a while):
+
+    $ ./deploy-all.sh
+
+
+
+

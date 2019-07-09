@@ -8,7 +8,7 @@
 	path = gyruss-purescript
 	url = git@github.com:sseefried/gyruss-purescript.git
 [submodule "rubiks-cube"]
-	path = rubiks-cube
+	path = rubiks-cube-vs-mirrorblocks
 	url = git@github.com:sseefried/rubiks-cube.git
 [submodule "html-resume"]
 	path = html-resume
