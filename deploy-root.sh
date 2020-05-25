@@ -13,3 +13,7 @@ cd $DIR/root-files
 for i in *.html; do
   scp $i "$SEANSEEFRIED_DOT_ORG_MACHINE:$SEANSEEFRIED_DOT_ORG_PATH"
 done
+
+cd $DIR
+rsync -avz root-files/assets "$SEANSEEFRIED_DOT_ORG_MACHINE:$SEANSEEFRIED_DOT_ORG_PATH"
+
